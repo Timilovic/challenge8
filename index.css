@@ -8,7 +8,7 @@
 
  @media screen and (max-width: 500px) {
 
-   main{
+   .p-3{
       width:90% !important;
       margin-top: 0 !important;
    }
